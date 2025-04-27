@@ -1,0 +1,3 @@
+# Troubleshooting
+
+Conteúdo inicial.
