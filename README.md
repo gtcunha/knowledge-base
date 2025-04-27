@@ -1,5 +1,5 @@
 # Knowledge Base
 
 ## Índice
-- [Linux](./Linux/index.md)
+- [Linux](./Linux/index_linux.md)
 - [Outros](./Outros)
