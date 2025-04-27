@@ -1,7 +1,7 @@
 # Knowledge Base
 
 ## Índice
-- [Linux](./Linux)
+- [Linux](./Linux/index.md)
 - [Redes](./Redes)
 - [Backup](./Backup)
 - [ITIL](./ITIL)
